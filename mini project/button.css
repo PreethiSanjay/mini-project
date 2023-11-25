@@ -1,0 +1,26 @@
+﻿.btn {
+    display:inline-block;
+    border-radius:2px;
+    border:none;
+    height:45px;
+    padding:0;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.btn2 {
+    width: 10%;
+}
+.btn3 {
+    background-color:transparent;
+    color:#2088A2;
+    border: 1px solid #2088A2;
+    transition:.2s ease;
+    font-weight: 700;
+    font-size: x-large;
+}
+.btn:hover {
+    background-color: #2088A2;
+    color: white;
+     transition:.2s ease;
+
+}
